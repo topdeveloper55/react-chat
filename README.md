@@ -5,8 +5,8 @@ This app was basic chat application dose not incluse database, it was fucus on R
 ## Get install
 
 ```bash
-  git clone https://github.com/tudtude/Chat-React-SocketIO.git
-  cd Chat-React-SocketIO
+  git clone https://github.com/kane0505/react-chat.git
+  cd react-chat
   npm install
   ```
 
